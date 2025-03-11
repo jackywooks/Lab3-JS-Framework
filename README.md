@@ -5,7 +5,7 @@ This project is a demo of a REST API using Node.js and Express.
 
 It implements CRUD (Create, Retrieve, Update, Delete) operations and allows you to test the API with Postman.
 
-## 🔹Main tech stack
+# 🔹Main tech stack
 
 ・Node.js
 ・Express.js
@@ -13,7 +13,7 @@ It implements CRUD (Create, Retrieve, Update, Delete) operations and allows you 
 ・Data management with JSON files
 ・Postman (for testing the API)
 
-📂 Project Structure
+# 📂 Project Structure
 
 express-Lab/
 │── data/
@@ -24,7 +24,7 @@ express-Lab/
 │── package.json # Project dependencies (Express, Nodemon, etc.)
 │── README.md # Project description file (this file)
 
-✨ Key Concepts
+# ✨ Key Concepts
 
 Basic usage of Express
 GET / POST / PUT / DELETE CRUD operations
