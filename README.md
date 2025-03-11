@@ -7,11 +7,11 @@ It implements CRUD (Create, Retrieve, Update, Delete) operations and allows you 
 
 ## 🔹Main tech stack
 
-・Node.js
-・Express.js
-・Nodemon
-・Data management with JSON files
-・Postman (for testing the API)
+・Node.js\
+・Express.js\
+・Nodemon\
+・Data management with JSON files\
+・Postman (for testing the API)\
 
 ## 📂 Project Structure
 
