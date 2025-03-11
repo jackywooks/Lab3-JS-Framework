@@ -15,7 +15,7 @@ It implements CRUD (Create, Retrieve, Update, Delete) operations and allows you 
 
 ## 📂 Project Structure
 
-express-Lab/
+express-Lab/\
 │── data/\
 │ ├── data.json # JSON file to store user information\
 │── server1.js # Server to display root page\
