@@ -11,23 +11,23 @@ It implements CRUD (Create, Retrieve, Update, Delete) operations and allows you 
 ・Express.js\
 ・Nodemon\
 ・Data management with JSON files\
-・Postman (for testing the API)\
+・Postman (for testing the API)
 
 ## 📂 Project Structure
 
 express-Lab/
-│── data/
-│ ├── data.json # JSON file to store user information
-│── server1.js # Server to display root page
-│── server2.js # Server to display JSON data
-│── server3.js # Server to provide CRUD operations
-│── package.json # Project dependencies (Express, Nodemon, etc.)
+│── data/\
+│ ├── data.json # JSON file to store user information\
+│── server1.js # Server to display root page\
+│── server2.js # Server to display JSON data\
+│── server3.js # Server to provide CRUD operations\
+│── package.json # Project dependencies (Express, Nodemon, etc.)\
 │── README.md # Project description file (this file)
 
 ## ✨ Key Concepts
 
-Basic usage of Express
-GET / POST / PUT / DELETE CRUD operations
-Building a development environment using Nodemon
-Testing APIs using Postman
-Using JSON files instead of a database
+Basic usage of Express\
+GET / POST / PUT / DELETE CRUD operations\
+Building a development environment using Nodemon\
+Testing APIs using Postman\
+Using JSON files instead of a database\
